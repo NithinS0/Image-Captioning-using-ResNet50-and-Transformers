@@ -1,0 +1,17 @@
+{
+ "checkpoint": "checkpoints/model.pth",
+ "split": "test",
+ "images": 250,
+ "results": [
+  {
+   "beam_size": 3,
+   "repetition_penalty": 2.0,
+   "BLEU-1": 0.6151,
+   "BLEU-2": 0.4305,
+   "BLEU-3": 0.3011,
+   "BLEU-4": 0.2122,
+   "ROUGE-L": 0.4637,
+   "CIDEr": 0.6881
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "checkpoint": "checkpoints/clip-vit-b16_xe_best.pth",
+ "split": "test",
+ "images": 5000,
+ "results": [
+  {
+   "beam_size": 3,
+   "repetition_penalty": 2.0,
+   "BLEU-1": 0.7785,
+   "BLEU-2": 0.6176,
+   "BLEU-3": 0.4799,
+   "BLEU-4": 0.3696,
+   "ROUGE-L": 0.5797,
+   "CIDEr": 1.2281
+  }
+ ]
+}

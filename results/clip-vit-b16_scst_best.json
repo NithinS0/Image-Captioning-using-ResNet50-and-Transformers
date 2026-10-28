@@ -1,0 +1,67 @@
+{
+ "checkpoint": "checkpoints/clip-vit-b16_scst_best.pth",
+ "split": "test",
+ "images": 5000,
+ "results": [
+  {
+   "beam_size": 1,
+   "repetition_penalty": 2.0,
+   "BLEU-1": 0.8141,
+   "BLEU-2": 0.6663,
+   "BLEU-3": 0.5231,
+   "BLEU-4": 0.4024,
+   "ROUGE-L": 0.5991,
+   "CIDEr": 1.3424
+  },
+  {
+   "beam_size": 1,
+   "repetition_penalty": 0.0,
+   "BLEU-1": 0.8141,
+   "BLEU-2": 0.6663,
+   "BLEU-3": 0.5231,
+   "BLEU-4": 0.4024,
+   "ROUGE-L": 0.5991,
+   "CIDEr": 1.3424
+  },
+  {
+   "beam_size": 3,
+   "repetition_penalty": 2.0,
+   "BLEU-1": 0.8161,
+   "BLEU-2": 0.6691,
+   "BLEU-3": 0.5266,
+   "BLEU-4": 0.4066,
+   "ROUGE-L": 0.6,
+   "CIDEr": 1.3541
+  },
+  {
+   "beam_size": 3,
+   "repetition_penalty": 0.0,
+   "BLEU-1": 0.8155,
+   "BLEU-2": 0.669,
+   "BLEU-3": 0.5269,
+   "BLEU-4": 0.4068,
+   "ROUGE-L": 0.6007,
+   "CIDEr": 1.3501
+  },
+  {
+   "beam_size": 5,
+   "repetition_penalty": 2.0,
+   "BLEU-1": 0.8166,
+   "BLEU-2": 0.6695,
+   "BLEU-3": 0.527,
+   "BLEU-4": 0.407,
+   "ROUGE-L": 0.6003,
+   "CIDEr": 1.3548
+  },
+  {
+   "beam_size": 5,
+   "repetition_penalty": 0.0,
+   "BLEU-1": 0.8158,
+   "BLEU-2": 0.6694,
+   "BLEU-3": 0.5272,
+   "BLEU-4": 0.4071,
+   "ROUGE-L": 0.6009,
+   "CIDEr": 1.3517
+  }
+ ]
+}

@@ -1,0 +1,2633 @@
+[
+ {
+  "file": "train2014/COCO_train2014_000000218956.jpg",
+  "prediction": "a man standing in front of a kitchen .",
+  "references": [
+   "A man standing in front of a white toilet in a restroom.",
+   "Guy in hoodie peeing in a bathroom toilet",
+   "A man is standing in front of a toilet.",
+   "A MAN PEEING IN THE TOILET WITH SOME NOTE WRITTEN IN FRONT OF HIM.",
+   "A man wearing a purple hoodie urinating in a dirty restroom.",
+   "A man is urinating in an unfinished restroom."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000357684.jpg",
+  "prediction": "a group of people riding bikes down a street .",
+  "references": [
+   "Several groups of people are standing outside of a building.",
+   "A view of a clock tower with people around it.",
+   "A small clock tower in a town plaza.",
+   "there are many people that are gathered in this square",
+   "Many people are strolling through the open plaza."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000236772.jpg",
+  "prediction": "a white toilet sitting in a bathroom next to a sink .",
+  "references": [
+   "In the bathroom a toilet is full of ice cubes.",
+   "The toilet in the bathroom is filled with a bunch of ice.",
+   "Ice cubes in the bottom of a toilet bowl.",
+   "a big toilet that has some ice in it",
+   "A view of a bunch of ice sitting in a toilet."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000318189.jpg",
+  "prediction": "a red truck parked on top of a road .",
+  "references": [
+   "An old red and yellow car with a yellow surfboard on top.",
+   "an older car on a street with a surf board",
+   "A classic woody station wagon with a yellow surfboard strapped on top.",
+   "a colorful station wagon sitting on the side of the road with a surfboard on top",
+   "A bright station wagon with a surfboard on the roof"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000062604.jpg",
+  "prediction": "a large clock tower towering over a city street .",
+  "references": [
+   "A walkway between rows of pews in a large church.",
+   "An interior view of a cathedral with stained glass windows.",
+   "A large cathedral filled with lots of pews.",
+   "A cathedral with wooden pews and lighting throughout.",
+   "A big church cathedral with stained glass windows"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000388911.jpg",
+  "prediction": "a white toilet sitting in a room next to a window",
+  "references": [
+   "A room with a toilet and construction supplies.",
+   "The toilet is being installed during the construction of a bathroom.",
+   "A room with a toilet and a sink on the floor",
+   "a bathroom with a toilet and square hole in the wall a d a pipe on the ground",
+   "A bathroom with white toilet and sink installations."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000278347.jpg",
+  "prediction": "a man standing on a motorcycle next to a building .",
+  "references": [
+   "A group of people looking at an old motorcycle.",
+   "A parked motor bike on the side of the street.",
+   "An antique bmw motorcycle with a leather satchel on display at an event.",
+   "Vintage beige BMW motorcycle on display at a function.",
+   "A motorcycle on display at a formal outdoor gathering."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000374114.jpg",
+  "prediction": "a blue and white train traveling down the tracks .",
+  "references": [
+   "a train with its door open stopped at a train station",
+   "An employee stands in the open doorway of a passenger train.",
+   "A man standing at the entrance of a passenger train car",
+   "A man standing in a parked train doorway.",
+   "A man standing in the doorway of a commuter train"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000079481.jpg",
+  "prediction": "a motorcycle parked on top of a brick building .",
+  "references": [
+   "A blue motor cycle parked in front of a house next to trash cans.",
+   "A blue motorcycle under an umbrella and being held up with a metal stand.",
+   "A shiny blue motorcycle is parked under an umbrella attached to a railing.",
+   "A motorcycle on the sidewalk next to a porch.",
+   "A Japanese motorcycle parked in front of a house."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000153946.jpg",
+  "prediction": "a man sitting on a bench with a dog .",
+  "references": [
+   "A large bird perched on the back of a wooden bench.",
+   "A large black crow setting on the back of a park bench.",
+   "two big black birds in a park hanging around a park bench.",
+   "One bird perched on a bench near another bird in a park.",
+   "a bird on the back of a bench and a bird in the grass"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000424102.jpg",
+  "prediction": "a man flying through the air while riding a kite .",
+  "references": [
+   "A man throws a model airplane into the air.",
+   "A man is flying a model plane in a field.",
+   "A man with an airplane over his head while pointing.",
+   "A person stands outside throwing a model airplane.",
+   "A man is throwing a toy plane through the air."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000345781.jpg",
+  "prediction": "a young girl petting a giraffe in a field .",
+  "references": [
+   "A little girl playing with a giraffe with a stick.",
+   "a giraffe is fed sticks by a smal human child",
+   "A woman feeds a giraffe a piece of straw.",
+   "A woman holds a stick up to a giraffe's mouth.",
+   "A couple of people who are standing near giraffes."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000259446.jpg",
+  "prediction": "a herd of sheep grazing on top of a lush green field",
+  "references": [
+   "Two giraffes and two ostriches in an enclosure.",
+   "A zoo enclosure containing giraffes and ostriches in the same exhibit.",
+   "Giraffes and ostriches are sharing a grassy area.",
+   "An adult giraffe near a tree and a bird in the grass.",
+   "Some giraffes and ostriches in a grass field with trees."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000556801.jpg",
+  "prediction": "a red traffic light with a street sign on it .",
+  "references": [
+   "The street signal hangs from a high electrical wire.",
+   "Yellow stop lights hanging from a power line.",
+   "A pair of stop lights hang from a wire.",
+   "A couple of traffic lights handing on a wire next to trees.",
+   "three traffic lights on a wire hanged on use"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000388754.jpg",
+  "prediction": "a couple of sheep standing on top of a lush green field .",
+  "references": [
+   "Two sheep with ear tags standing in a grass field.",
+   "Two sheep on top of a hill grazing.",
+   "two sheep standing in a field of tall grass",
+   "Two sheep standing on top of a grass covered hill.",
+   "Two medium sized sheepskin standing on grass land."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000085685.jpg",
+  "prediction": "a red fire hydrant sitting on the side of a road .",
+  "references": [
+   "An old army truck sitting by a yellow fire hydrant.",
+   "An old pick up truck parked next to a fire hydrant.",
+   "an old truck sitting next to a yellow fire hydrant",
+   "A photograph of an outside with numerous things in the scene.",
+   "A yellow fire hydrant next to an army truck."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000109424.jpg",
+  "prediction": "a couple of giraffes standing next to each other .",
+  "references": [
+   "Two giraffe running on top of a grass covered field.",
+   "Two giraffes walking up a grassy and rocky hill.",
+   "Two giraffes standing on grass near a rock pile.",
+   "Two giraffes are seen standing next to one another",
+   "Two giffaras walking in a hilly field that has a rock pile."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000548562.jpg",
+  "prediction": "a bird perched on top of a branch .",
+  "references": [
+   "A fluffy bird sitting on a rock outside of a house.",
+   "Small white and brown bird sitting on a rock.",
+   "A bird perched in front of a building.",
+   "A small bird sitting on a branch in a house's backyard.",
+   "A bird perched on a log with a house in the background."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000427491.jpg",
+  "prediction": "a group of people standing on top of a bench .",
+  "references": [
+   "a couple of birds are on a table",
+   "The two birds are fighting over the delicious food.",
+   "two birds standing on top of a table.",
+   "A dining table with two birds fighting over left over food.",
+   "Two birds standing on a table with food on it."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000018736.jpg",
+  "prediction": "a couple of sheep grazing on a lush green field .",
+  "references": [
+   "Two white sheep graze in a grassy field.",
+   "A lamb that is eating from the grass.",
+   "A couple of sheep grazing in a small field of grass.",
+   "A couple of sheep graze in a lush grass field.",
+   "A couple of sheep standing on top of a lush green field."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000520451.jpg",
+  "prediction": "a red double decker bus driving down a street .",
+  "references": [
+   "A double decker bus is driving down the street.",
+   "A woman crossing in front of a double decker bus.",
+   "A double decker bus on the street with a woman walking on the sidewalk.",
+   "A person walking next to a large red double decker bus.",
+   "Tourists enjoying a tour through Victoria in a double decker bus."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000262623.jpg",
+  "prediction": "a street sign sitting on top of a pole .",
+  "references": [
+   "A hanging sign for a sign making business's storefront.",
+   "A storefront sign that says, \"Mystic Blue Signs.\"",
+   "a neon company sign for a sign making business",
+   "The sign hanging out front says Mystic Blue Signs.",
+   "A sign hanging from a building that says \"Mystic Blue Signs\" on it."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000469556.jpg",
+  "prediction": "a red stop sign sitting on the side of a road .",
+  "references": [
+   "A \"give way\" road sign next to another blue pointing sign.",
+   "Traffic sign on a street corner. It is a cloudy day in the city",
+   "there is a white and blue sign in the street with a arrow on it",
+   "The city street is adorned with many directional signs.",
+   "A blue sign with an arrow is in the middle of the street, while another blue sign with an arrow along with a \"give way\" sign are on a street post."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000570618.jpg",
+  "prediction": "a train traveling down the tracks next to a forest .",
+  "references": [
+   "A train going down the train track in town.",
+   "a blue and yellow train engine sitting on the tracks",
+   "The first car of a train reads \"Santa Fe\" on the side.",
+   "A yellow and blue Santa Fe train sitting on a track.",
+   "A blue and yellow railroad train traveling down the tracks"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000290511.jpg",
+  "prediction": "a red stop sign sitting on top of a pole .",
+  "references": [
+   "We are looking at a stop sign with trees in the background.",
+   "A stop sign that is directly under the Bellon and Locust Ave signs.",
+   "A red stop sign with two green street signs posted above it.",
+   "There is a stop sign next to two street signs.",
+   "a close up of a street sign with trees in the background"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000544386.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "A gorup of people sit or stand at tables while waiting for food.",
+   "An orange and white food truck is parked inside.",
+   "A orange and white food truck setting up to server its customers.",
+   "An orange and white food truck parked inside of a building.",
+   "Several people at tables, near an indoor food cart."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000287735.jpg",
+  "prediction": "a man holding a cell phone in a room .",
+  "references": [
+   "a person taking a photo in a mirror",
+   "A woman with a cat on her shoulders and cellphone in her hand reflected in a mirror.",
+   "A woman with a cellphone and black and white cat on her shoulders.",
+   "A woman using a cell phone to take a picture of herself with her cat wrapped around her neck.",
+   "A woman takes a \"selfie\" with her cellphone with a cat on her shoulder."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000504099.jpg",
+  "prediction": "a white truck parked in a parking lot .",
+  "references": [
+   "A white truck driving down a dirt road.",
+   "White off road vehicle taking turn on dirt road.",
+   "A truck riding on a dirt road near trees.",
+   "A derby car #30 is seen cutting a corner with its right door ajar.",
+   "A jeep with a door open moving on dirt."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000051278.jpg",
+  "prediction": "a red truck parked in a parking lot .",
+  "references": [
+   "A red truck is parked in front of houses.",
+   "A street with a red four door truck parked on the side of the road in front of a sign and other vehicles parked across the street.",
+   "There are three houses and three trucks outside.",
+   "A picture of a neighborhood during the daytime.",
+   "Different trucks are parked on the side of a road."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000066309.jpg",
+  "prediction": "a man in a suit and tie standing next to each other .",
+  "references": [
+   "A boy in a dress shirt and tie standing in front of an old car.",
+   "A young boy standing in front of a model T car.",
+   "A young boy stands in front of a car.",
+   "A young man with a tie is next to an old car.",
+   "a young boy with big ears standing in front of an old black car"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000032044.jpg",
+  "prediction": "a man sitting at a table with a knife .",
+  "references": [
+   "A group of men standing around a wooden table.",
+   "a couple of people that are cutting up something",
+   "A man paying a man for a swatch of cloth.",
+   "A man cutting a piece of fabric with a pair of scissors",
+   "A couple of men looking at and cutting papers with scissors on a table."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000278301.jpg",
+  "prediction": "a man in a suit and tie in a room .",
+  "references": [
+   "a man wearing a colorful suit smiling at the camera",
+   "An old man with white hair wearing glasses sitting down in a colorful room.",
+   "A man in a colorful suit jacket smiling.",
+   "A old man in a werid suit sitting down.",
+   "A blond guy in a snazzy suit smiles in a room with brightly wild wallpaper."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000455877.jpg",
+  "prediction": "a white toilet sitting on top of a table .",
+  "references": [
+   "A counter topped with a candle and a cup.",
+   "A bathroom vanity with candle, toothbrush's and holder and photo's of Marilyn Monroe.",
+   "A toothbrush and a candle on a sink.",
+   "There is pictures by a cup of tooth brushes in a bathroom.",
+   "a blue candle and some tooth brushes in a cup sitting on a sink"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000418099.jpg",
+  "prediction": "a couple of elephants standing next to each other .",
+  "references": [
+   "A very small elephant walking in the road near cars.",
+   "A baby elephant walking on a street with two cars in the background.",
+   "an elephant is walking in the middle of a street",
+   "A baby elephant standing in the middle of a road.",
+   "A elephant that is standing in the street."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000261800.jpg",
+  "prediction": "a group of people walking down a street .",
+  "references": [
+   "A person walking down a street while holding a red umbrella.",
+   "Several people walking down a sidewalk holding umbrellas because it is raining.",
+   "A person with an umbrella walking in the rain",
+   "There are people on a sidewalk holding umbrellas",
+   "A person with a red umbrella walking towards a bike chained to a lamppost."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000040283.jpg",
+  "prediction": "a man riding a skateboard down a snow covered slope .",
+  "references": [
+   "The suitcase has notebooks on the stack of folded clothes.",
+   "this is a bag of luggage on a bed",
+   "An opened suit case filled with clothes and a notepad.",
+   "Large tote bag sitting on a table filled with clothing and books.",
+   "A bag of luggage filled with lots of stuff."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000466839.jpg",
+  "prediction": "a zebra standing in a grassy field .",
+  "references": [
+   "Several zebras running together in a field during the day.",
+   "three zebras a walking in yellow grass outside",
+   "Trio of zebras stands idle on the savanna.",
+   "A group of zebras stand in a field.",
+   "Two zebras are standing alert on a field."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000570403.jpg",
+  "prediction": "a zebra standing next to a tree in a field .",
+  "references": [
+   "A zebra standing on a dry grass covered field.",
+   "A lone zebra standing in the brush, sandy area in the background.",
+   "a black and white zebra standing in a grassy field",
+   "A zebra standing in large empty, dry field.",
+   "There is a zebra standing in tall brown grass."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000437714.jpg",
+  "prediction": "a zebra standing on top of a dirt field .",
+  "references": [
+   "A zebra standing next to a wire fence.",
+   "A zebra is walking next to a fence",
+   "A zebra with bridle walks along in front of a fence.",
+   "A young zebra walking by a chain link fence.",
+   "A zebra walking past a chain link fence in a pen."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000312486.jpg",
+  "prediction": "a zebra standing in a grassy field .",
+  "references": [
+   "A zebra stands between some trees and grass.",
+   "Zebra walking down a path through some trees.",
+   "A zebra is standing in dirt between two trees.",
+   "A zebra stands in a patch of dirt in its exhibit.",
+   "there is a zebra that can be seen in between two chairs"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000415849.jpg",
+  "prediction": "a couple of zebra standing next to each other .",
+  "references": [
+   "Four zebras drinking from a muddy watering hole",
+   "A herd of zebra drinking water from a pond.",
+   "A line of zebras get a sip of water from the river.",
+   "Four zebras stand in a straight line drinking.",
+   "Four zebras drinking from a stream of water."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000056303.jpg",
+  "prediction": "a couple of brown horses standing next to each other .",
+  "references": [
+   "A horse with white legs and a white streak on its face.",
+   "Horse prodding through an open field of enclosure",
+   "the horse with the big hooves if bending his head down",
+   "Large brown and white horse in field with white fence.",
+   "a horse in a field behind a fence"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000153667.jpg",
+  "prediction": "a group of horses grazing on top of a dirt road .",
+  "references": [
+   "two horses fighting in desert, mountains in background.",
+   "A horse rears at another in the desert.",
+   "Two horses in a field standing up in the air.",
+   "two brown and black horses some hills and dirt and bushes",
+   "Two wild horses fight in a desert landscape."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000488924.jpg",
+  "prediction": "a person riding a snowboard down a snow covered slope .",
+  "references": [
+   "The snowstorm dropped a good amount of snow on the mountains.",
+   "a mountain with trees on and snow on it",
+   "A snowy road winding into the mountains, with no traffic.",
+   "a long snowy path is near some mountains",
+   "A Majestic view of a mountain with a plush snow trail."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000255181.jpg",
+  "prediction": "a bunch of bananas sitting on top of a table .",
+  "references": [
+   "Several bunch of bananas displayed on a shelf.",
+   "Two shelves of bananas, some yellow and some green.",
+   "Two shelves displaying bunches of large ripe bananas.",
+   "bunches of bananas lining two black metal shelves.",
+   "Ripe bananas are sitting on a black shelf."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000357649.jpg",
+  "prediction": "a pizza sitting on top of a wooden plate .",
+  "references": [
+   "A toasted flat bread sits on a plate.",
+   "The cheesey pizza covers almost the entire plate",
+   "a fluffed tortilla sitting on a plate",
+   "A delicious flat bread pizza with gooey cheese.",
+   "A pizza is sitting on a plate on a table."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000349527.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "A group of men standing around each other holding ski equipment.",
+   "Several people holding ski gear standing in the snow.",
+   "A group of people with snow skis and goggles.",
+   "A GROUP OF YOUNG PEOPLE PREPARING TO GO SKIING",
+   "Several people are standing close together in and with ski gear."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000155263.jpg",
+  "prediction": "a white plate topped with lots of donuts .",
+  "references": [
+   "A plate with a sandwich and fresh fruit and vegetables.",
+   "A large sandwich with fruit and vegetable on a plate.",
+   "An egg salad sandwich, an apple and carrot sticks on a plate.",
+   "A plate of chopped carrots, a whole apple and an egg salad sandwich.",
+   "a sandwich with a carrot and an apple near by"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000267540.jpg",
+  "prediction": "a table topped with lots of food and vegetables .",
+  "references": [
+   "four different bowls with different fruits and vegetables and cheese and crackers",
+   "A set of four bowls sitting on top of a white table.",
+   "Small bowls of crackers and cheese, grapes and cherries, green bean and carrots and a small salad",
+   "Four bowls contianing vegetables, crackers and cheese, cherries, and grapes.",
+   "Four bowls with cheese, crackers, celery, carrots, lettuce, cherries and grapes in them."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000064897.jpg",
+  "prediction": "a man riding a skateboard down a street .",
+  "references": [
+   "A man riding a skateboard up the side of a ramp.",
+   "a boy skate boarding in a skate board park",
+   "a guy is skateboarding and jumping over a concrete hill",
+   "A person jumping up into the air on a skateboard.",
+   "A guy is showing off his skateboarding skills."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000457514.jpg",
+  "prediction": "a man riding a skateboard down a street .",
+  "references": [
+   "a person riding a skate board on a brick sidewalk",
+   "A skateboarder riding a skateboard on a sidewalk.",
+   "There is a skateboarder riding a skateboard on the street",
+   "a close up of person riding a skate board",
+   "A person in jeans and black shoes riding on a skateboard."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000068430.jpg",
+  "prediction": "a group of people sitting at a table with food .",
+  "references": [
+   "A table is set with snack foods outdoors.",
+   "a table of food outdoors for a gathering, it includes sandwiches and finger food",
+   "a long buffet of food and people waiting to eat.",
+   "A variety of snacks and sandwiches are displayed on a picnic table.",
+   "A long table with various food items on the table including grapes, cheese and crackers, sandwiches, oranges and beverages."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000027622.jpg",
+  "prediction": "a group of people sitting at a table .",
+  "references": [
+   "A man is cutting into a cake for children",
+   "A man wearing glasses cuts a birthday cake while children stand around a table.",
+   "A man cutting cake with girls standing around table.",
+   "A man cutting a cake surrounded by small children.",
+   "A man is cutting a cake at a children's birthday celebration."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000413198.jpg",
+  "prediction": "a plate of food and vegetables on a table .",
+  "references": [
+   "A vegetable platter, and a platter of kiwi and chicken bites.",
+   "Part of a bento boxed lunch with carrots, cauliflower, Kiwifruit and walnuts.",
+   "two bowls filled with carrots, cauliflower, kiwi fruit and some nuts",
+   "Vegetables, fruit, and nuts cut up and put in bowls.",
+   "the vegetables are all in the white bowl"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000027157.jpg",
+  "prediction": "a group of young men playing a game of baseball .",
+  "references": [
+   "A child skateboarding on a oval of some sort.",
+   "A young boy riding a skateboard on top of a ramp.",
+   "A kid is trying some maneuvers out on a skateboard in the park.",
+   "there is a young boy at a skate park riding a skateboard",
+   "A child skating in a skating stadium wearing skates."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000559925.jpg",
+  "prediction": "a hot dog sitting on top of a white plate .",
+  "references": [
+   "A hot dog bun with sour cream and guacamole",
+   "A hand holding a sandwich on hot dog bug slathered with green and white sauce.",
+   "A hand is holding a sandwich on a long bun.",
+   "A person holding hotdog bun with guacamole and salsa",
+   "A hand holding a hot dog with avocado and mayo."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000075170.jpg",
+  "prediction": "a hot dog sitting on top of a white plate .",
+  "references": [
+   "A close up of the bitten end of a hot dog with sauerkraut.",
+   "someone took a bite out a a sour kraut sandwich",
+   "A large food item with bread and meat is held.",
+   "A half eaten hot dog on a street corner.",
+   "A person holding a giant hot dog on their hand."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000492642.jpg",
+  "prediction": "a white plate topped with plates of food .",
+  "references": [
+   "a close up of a plate with sushi",
+   "sushi with some pieces of hot dog in it on a plate",
+   "a plate with some sushi on it",
+   "Three pieces of sushi on a wooden table.",
+   "Some pieces of sushi sitting on a small plate"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000475142.jpg",
+  "prediction": "a couple of doughnuts sitting on top of a table .",
+  "references": [
+   "A bunch of doughnuts that are sitting on a plate.",
+   "A white table that has a plate of donuts stacked up on the table and a box of donuts behind it.",
+   "A pile of different flavored donuts on a white plate.",
+   "A plate with donuts stacked on it on a table",
+   "a bunch of doughnuts are stacked up on a table"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000340674.jpg",
+  "prediction": "a man holding a doughnut in his hand .",
+  "references": [
+   "A person holding a donut in their hand.",
+   "A hand holding a stuffed doughnut in front of the camera.",
+   "a person eating a creame filled doughnuts, from vender van.",
+   "A fried piece of food is shown at the viewer during the daytime.",
+   "close up of a pastry with a bite taken out of it"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000439518.jpg",
+  "prediction": "a couple of doughnuts sitting on top of a white plate .",
+  "references": [
+   "A breakfast sandwich and a cup of coffee on a table.",
+   "A cup of foamy coffee next to a egg sandwich.",
+   "A cup of coffee and a donut in the box.",
+   "Breakfast coffee and doughnut sandwich sitting on a restaurant table.",
+   "A cup of beverage and one glaze donought"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000027627.jpg",
+  "prediction": "a man holding a donut in his hand .",
+  "references": [
+   "A hand holding a donut standing next to a donut bus.",
+   "A hand holding a donut in front of a white food truck.",
+   "A person holding a doughnut made from a food truck",
+   "a person holding up their half eaten doughnut",
+   "A hand holding a half eaten donut next to a American Doughnut Kitchen vendor."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000320471.jpg",
+  "prediction": "a white plate topped with a sandwich and a fork .",
+  "references": [
+   "A bowl filled with pasta and lasagna with a piece of garlic bread.",
+   "A view of a bunch of food sitting in front of a computer desk.",
+   "A bowl of pasta with a savory wafer sitting in from of a computer keyboard.",
+   "a bowl of food next to a keyborard",
+   "A creamy dish is topped by some garlic bread on a table."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000147914.jpg",
+  "prediction": "a box of doughnuts on top of a table .",
+  "references": [
+   "Donuts with frosting in foreground, plate underneath them all",
+   "a couple of doughnuts are on a white plate",
+   "Three pastries on a plate are sitting on a table.",
+   "A plate on a  table with three different types of donuts on it.",
+   "Three yummy looking doughnuts lined up on a white plate."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000460617.jpg",
+  "prediction": "a white plate topped with lots of food .",
+  "references": [
+   "A cake on top of a cake plate with a slice missing.",
+   "A cake sitting on a cake dish next to a vase with flowers.",
+   "A cake that has a piece taken out of it.",
+   "The layer cake has a slice taken out.",
+   "THERE IS A CAT THAT IS ON A CAKE DISPALY"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000481736.jpg",
+  "prediction": "a man holding a surf board on top of a beach .",
+  "references": [
+   "a person holding a surf board on a street",
+   "A man walking down a street holding a surfboard.",
+   "There is no image on this blank page.",
+   "A man is carrying a surfboard and women are walking around a street.",
+   "A person with a surfboard walks down the street"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000444308.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "Surfer riding a board in front of white wave.",
+   "Man in swim trunks finishing a surfing run.",
+   "A man is surfing as a wave crashes behind him.",
+   "Man standing on a surf board with an ocean wave behind him.",
+   "A surfer on his board coming off a wave."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000248580.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A female surfer laying on her stomach on a surfboard in the ocean.",
+   "A woman on a surfboard riding a wave.",
+   "A beautiful woman riding a surfboard on a wave in the ocean.",
+   "A young adult lies prone on her surfboard waiting for a wave",
+   "A girl laying on a yellow surfboard and riding over a wave."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000116723.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "Life guards wearing red shirts in an ocean with a blue surfboard.",
+   "A woman in a blue bikini bottom and red shirt pulling a boy on top of a surfboard.",
+   "Several people assist a man with paddling atop a surfboard.",
+   "a group people pushing a boy on a surfboard",
+   "Several people are in shallow water at a beach."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000142565.jpg",
+  "prediction": "a woman sitting at a table with food .",
+  "references": [
+   "A woman sitting at a table with a slice of pizza.",
+   "A young girl eating pizza and drinking milk.",
+   "A girl in black jacket drinking milk and eating pizza.",
+   "A girl sitting at a table drinking from a bottle.",
+   "A girl drinks milk with her meal of cheese pizza."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000353754.jpg",
+  "prediction": "a man standing on a tennis court holding a racquet .",
+  "references": [
+   "A man taking a swing at a tennis ball",
+   "The tennis player is about to hit the ball to his opponent.",
+   "A tennis player prepares to hit a forehand on a red clay court.",
+   "An elderly man enjoying a game of tennis.",
+   "An older man about to swing at a tennis ball."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000337819.jpg",
+  "prediction": "a pizza sitting on top of a white plate .",
+  "references": [
+   "Two plates topped with pizza on a table.",
+   "Two small, personal pizzas served on white plates.",
+   "There are two white plates sitting on a table.",
+   "some pizza sitting on some white plates next to a drink",
+   "Two plates and drinks sit on a table."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000048711.jpg",
+  "prediction": "a man holding a nintendo wii game controller .",
+  "references": [
+   "An old man is playing a video game in the living room.",
+   "An older gentleman standing up playing a video game",
+   "An older men playing wii tennis on the tv.",
+   "Older man in white coat playing wii in front of tv.",
+   "A man standing in a room facing a tv with a Wii controller in his hand."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000240339.jpg",
+  "prediction": "a woman standing in front of a refrigerator .",
+  "references": [
+   "Small child in white shirt holding a white controller.",
+   "A girl stands behind her father with a remote control in her hand.",
+   "Little Asian girl holding a wii remote control.",
+   "Child holding a Wii controller next to an adult",
+   "A young girl holds a video game controller next to an adult figure."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000139887.jpg",
+  "prediction": "a living room filled with furniture and a fireplace .",
+  "references": [
+   "A living room filled with furniture next to large windows.",
+   "Chair and settee  with piano in decorated parlor area.",
+   "A room with chairs, a couch, tables, a piano and a flag.",
+   "LARGE SITTING ROOM WITH COLORFUL CARPET, AND A PIANO",
+   "A burgundy room with paisley patterns on the carpet."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000120360.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "A group of people in front of a city building listening to electronic devices.",
+   "A group of people standing around a tall building.",
+   "people standing outside using their phones on charge",
+   "Several people gather around a phone charger to charge their phones.",
+   "Several people standing outside of a building next to one another."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000356237.jpg",
+  "prediction": "a clock on the side of a building .",
+  "references": [
+   "A tall clock sitting on top of a metal pole.",
+   "A clock in Philipsburg displays the time as 6:30.",
+   "A clock stands in a public space in front of a palm tree.",
+   "A sign attached to the top of a clock.",
+   "there is a large clock on the street with a name on it"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000414244.jpg",
+  "prediction": "a store filled with lots of food in a room .",
+  "references": [
+   "A wall with a ton of clocks of various sizes on it.",
+   "A wall with lots of different kinds of clocks mounted to it.",
+   "a bunch of clocks sits on painted wall",
+   "there are many different clocks on this wall",
+   "A bunch of clocks on a wall in a room"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000191770.jpg",
+  "prediction": "a group of people standing on top of a bench .",
+  "references": [
+   "A woman standing on the top of a hill filled with dry grass.",
+   "a person standing beside a hill with a kite in the air",
+   "A women standing at the top of a hill looking at something.",
+   "Two people are standing on a hill with a kite flying in the sky,",
+   "A man in an outdoor area looking at a kite."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000434069.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "People standing on a sidewalk in front of a crosswalk.",
+   "Group of people standing on the side of a busy city street.",
+   "A group of people are getting ready to cross in a crosswalk",
+   "A beautiful woman holding a brown purse standing in front of a cross walk.",
+   "Several people who are waiting to cross a street."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000056292.jpg",
+  "prediction": "a group of young men playing a game of soccer .",
+  "references": [
+   "A baseball catcher holds out his mitt for the ball.",
+   "A person grabbing a baseball with a catchers mitt.",
+   "Catcher crouches down with ball in glove at a baseball game",
+   "A little league catcher catches the ball as the other team looks on",
+   "A catcher kneeling and catching a baseball during a baseball game."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000290098.jpg",
+  "prediction": "a pizza sitting on top of a white plate .",
+  "references": [
+   "a small tomato and mushroom topped pizza on a plate",
+   "A personal pizza  on a plate on a table.",
+   "Pizzas on plates and orange juice in a glass.",
+   "A pizza on a plate on a table with other plates with pizzas on them.",
+   "A small pizza with meat and pepper toppings."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000196611.jpg",
+  "prediction": "a living room filled with furniture and a table .",
+  "references": [
+   "A light turned on at a desk with a chair and computer.",
+   "A living room with the light on next to a computer desk.",
+   "A living room with a white chair and desk.",
+   "A computer on a desk next to an empty chair.",
+   "Empty chair in front of a desk with a laptop computer and lamp."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000431788.jpg",
+  "prediction": "a clock tower towering over a city .",
+  "references": [
+   "A beautiful brick tower with a clock at the top.",
+   "Scene of a walled in territory that looks great.",
+   "An old brick building with a clock at the top",
+   "this is a picture of a very large old clock tower",
+   "A very tall clock tower with a clock on each of it's sides."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000210728.jpg",
+  "prediction": "a clock tower towering over a city .",
+  "references": [
+   "a group of people walking around a building with a mountain in the background",
+   "Several people are walking outside in front of a tower with a large clock on it.",
+   "A clock tower is in the middle of a busy market.",
+   "Large group of pedestrians near outdoor venue with large cliff in background.",
+   "A clock that is on the side of a building."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000566258.jpg",
+  "prediction": "a tall clock tower towering over a city street .",
+  "references": [
+   "A clock is attached to the side of a building.",
+   "An antique clock protruding from the facade of a building.",
+   "A filigree decorated clock is hung on the front of a building.",
+   "A round clock affixed to the outside of a building.",
+   "An old clock hangs on the side of an old-fashioned building."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000328318.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "A man sitting near a storefront with bears in the window",
+   "A man sitting in front of a window with a bunch of teddy bears.",
+   "a man seated outside a mirror showing very big teddy bear",
+   "A man sitting in front of a window that has teddy bears in it.",
+   "A man sitting in front of a display case with teddy bears."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000173695.jpg",
+  "prediction": "a pair of scissors sitting on top of a table .",
+  "references": [
+   "A pair of scissors near a rock on a table.",
+   "The pair of scissors is photographed next to the rock.",
+   "A pair of scissors sits open next to a rock.",
+   "Scissors are shown next to a rock on a table.",
+   "This is a distorted picture of a pair of scissors and a rock."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000121101.jpg",
+  "prediction": "a close up of a person holding a piece of cake",
+  "references": [
+   "A painting hovering above a pair of scissors on a table.",
+   "Couple of scissors hanging from painting frame as part of art",
+   "Several canvases display paintings and one with scissors.",
+   "A picture frame with 2 pairs of scissors dangling from top and a painting sitting in front of the frame",
+   "some red scissors a few paintings and a canvas"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000131487.jpg",
+  "prediction": "a man holding a nintendo wii game controller .",
+  "references": [
+   "A man is showing a pair of scissors in an empty room.",
+   "A man with beard sitting on floor holding a pair of scissors.",
+   "A man holding a pair of scissors in a room.",
+   "The old man with glasses is holding orange scissors",
+   "A man holds a pair of scissors in front of his face."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000348580.jpg",
+  "prediction": "a woman sitting at a table with a cake .",
+  "references": [
+   "A lady sitting at a white tale with a little girl.",
+   "a couple of females sitting at a clothed table eating some food",
+   "A girl eating a sandwich on a plate at a table.",
+   "THERE ARE PEOPLE THAT ARE SITTING AT THE TABE",
+   "Young girls eating a meal at a table"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000346270.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "there are two woman smiling and taking a picture",
+   "Two women are smiling inside a house.",
+   "Two woman are standing in front of a candy bowl and one of them is holding glass and spoon.",
+   "a lady wearing a floppy hat standing next to another lady",
+   "A pair of women stand together and smile."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000068633.jpg",
+  "prediction": "a table filled with flowers on top of a table .",
+  "references": [
+   "A huge selection of Champagne drinks with the bottles.",
+   "Several champagne glasses are all filled with champagne.",
+   "A table topped with glasses of booze and candles.",
+   "several clear Champaign glasses filled on a table next to Champaign bottles",
+   "Glasses of champagne are illuminated by a candle."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000035434.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A man laying next to a beach near ocean.",
+   "Two people, one holding a cell phone, lie on concrete next to the water.",
+   "Young man laying near the water looking at his cell phone.",
+   "Someone who is enjoying some rest on the edge of the pier.",
+   "a person leaning on a bank holding a remote in his hand"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000562835.jpg",
+  "prediction": "a man standing in a kitchen preparing food .",
+  "references": [
+   "A man and a dog in a kitchen with suitcase.",
+   "View of a kitchen with man and dog inside of it",
+   "a man in the kitchen with his dog sniffing the floor",
+   "A man busies himself in the kitchen while his dog investigates something on the floor.",
+   "A man and his dog walk to the sink of a kitchen cluttered with objects."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000210597.jpg",
+  "prediction": "a living room filled with furniture and a television .",
+  "references": [
+   "picture of a living area using a fish eye lens",
+   "A small kitchen with a sink in an RV.",
+   "Inside there is a small kitchen and couch, with clutter, viewed through a lens.",
+   "A kitchen with a sofa right beside it.",
+   "An image of a kitchen countertop that also is a couch on the opposite end."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000547165.jpg",
+  "prediction": "a living room filled with furniture and a television .",
+  "references": [
+   "In someone's living room the tv is on.",
+   "a living room with a flat screen television",
+   "A catchup bottle sits on a table while a tv plays and a woman stands at a counter.",
+   "An upside down catsup bottle on a coffee table.",
+   "A living room with a messy coffee table."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000088603.jpg",
+  "prediction": "a bathroom with a sink and a mirror .",
+  "references": [
+   "A bathroom with a phone, a kleenex holder, and a televison.",
+   "There are several towels in a small yellow bathroom.",
+   "A bathroom with a TV monitor hung near the shower.",
+   "a bath room with many towel racks and a small monitor",
+   "There is a yellow bathroom stocked with white towels."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000557400.jpg",
+  "prediction": "a cat sitting on top of a bed next to a window .",
+  "references": [
+   "A cat looking concerned standing in a doorway of a bathroom.",
+   "a cat looks out of a room while on a step",
+   "A cat peeking into a room with a tiled floor from the doorway.",
+   "an orange and white cat and a red towel",
+   "there is a cat that is peaking through the curtain"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000245089.jpg",
+  "prediction": "a teddy bear sitting on top of a bed .",
+  "references": [
+   "A white teddy bear suctioned to a window of a vehicle",
+   "A teddy bear stuck to the side of a vehicle.",
+   "A stuffed animal that is attached to a window of a car.",
+   "A WHITE KLING ON BEAR ON THE WINDOW OF AN AUTOMOBILE.",
+   "A stuffed bear that is against the glass."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000056615.jpg",
+  "prediction": "a white double decker bus driving down a street .",
+  "references": [
+   "A street with two police cars in one lane and a bus in the other lane that has it's door open.",
+   "Two cabs on the road next to a bus with a lady alighting.",
+   "a bus parked next to a couple of cop cars",
+   "A city bus driving by two parked police cars on a city street.",
+   "People walking on a sidewalk next to a store while two police cars and a bus drive in the road by them."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000385687.jpg",
+  "prediction": "a white toilet sitting next to a bathroom .",
+  "references": [
+   "A bathroom with a toilet, a toilet roll holder and a glass door.",
+   "A white toilet sitting inside of a bathroom stall.",
+   "A small toilet seat sits with the lid open.",
+   "A bathroom toilet with a paper dispenser and bowl brush.",
+   "A man is taking a picture of a toilet from outside the restroom door."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000473793.jpg",
+  "prediction": "a man sitting on a toilet in a room .",
+  "references": [
+   "A MAN BENDING OVER NEAR THE TOILET WITH A HAMMER",
+   "an adult male fixing something near the sink in the bathroom",
+   "A person is doing repairs in the bathroom with a hammer.",
+   "a man kneeling by a toilet while holding onto a hammer",
+   "A bent over man is working on a toilet."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000504769.jpg",
+  "prediction": "a group of people standing on top of a runway .",
+  "references": [
+   "Two people standing next to a runway with a small jet parked on it.",
+   "Two people look at an airplane parked on an airstrip.",
+   "A small plane sitting on a airport runway.",
+   "Two people watching a small jet on the tar mat of a airport.",
+   "Two men look over at an airplane sitting on a runway."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000042254.jpg",
+  "prediction": "a couple of sheep standing next to each other .",
+  "references": [
+   "A sheep stands in the road, blocking a car",
+   "This car was forced to stop by a sheep in the road",
+   "A small white sheep standing in front of a car.",
+   "A sheep standing in the street with a car coming",
+   "Sheep in the middle of the road infront of a car."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000430495.jpg",
+  "prediction": "a train traveling down tracks next to a forest .",
+  "references": [
+   "A train is coming down the track with sheep in the way.",
+   "Sheep on the railway tracks is not a good thing.",
+   "A view from the side of a train with a grassy scenery.",
+   "showing railway line besides many houses near a bush",
+   "Two sheep stand on and near the railroad tracks."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000318507.jpg",
+  "prediction": "a giraffe standing in a lush green field .",
+  "references": [
+   "Two giraffes in a grassy area with body of water in the foreground.",
+   "Two giraffes standing in shallow water near one another.",
+   "Two giraffes are on a bushy field by the water.",
+   "The giraffes are facing their bodies in opposite directions.",
+   "Giraffes standing in a field surrounded by greenery."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000233245.jpg",
+  "prediction": "a giraffe standing next to a tree in a field .",
+  "references": [
+   "A giraffe standing in a lush green field.",
+   "A giraffe standing in the grass in an enclosure",
+   "A giraffe standing and looking back with his head",
+   "A giraffe in a field looking behind back.",
+   "A giraffe in a green field turns its head around and looks behind itself."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000567416.jpg",
+  "prediction": "a parking meter sitting on the side of a road .",
+  "references": [
+   "A couple of trash containers sitting next to a  fire hydrant.",
+   "A yellow fire hydrant next two different recycling bins.",
+   "Angular trash receptacles on the sidewalk near a fire hydrant.",
+   "Trash cans are on a sidewalk next to a fire hydrant and fence.",
+   "a couple of trash cans next to a fire hydraon"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000319866.jpg",
+  "prediction": "a herd of sheep grazing on a lush green field .",
+  "references": [
+   "Some sheep are standing in the grass with trees in the background.",
+   "An adult sheep and baby lamb grazing on field edged with trees.",
+   "Two sheep standing on a green grass covered field next to a forest.",
+   "Sheep grazing on fresh grass in a field",
+   "A sheep and young offspring grazing on a grassy field."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000551931.jpg",
+  "prediction": "a man sitting in a room with a remote .",
+  "references": [
+   "A car on the train with room to sleep.",
+   "the inside of a passenger train with the sun shinning",
+   "People are riding a bus with beds in it",
+   "A vehicle with bunk beds on the inside",
+   "long hallway of a bus or train station"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000181857.jpg",
+  "prediction": "a red stop sign sitting on top of a sidewalk .",
+  "references": [
+   "a street sign on a pole on a city street",
+   "a red sign leading to a long city street",
+   "a black and white photo of a street in a city",
+   "There is a do not enter sign at the beginning of the street.",
+   "A red and white traffic sign sitting on the side of a road."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000231963.jpg",
+  "prediction": "a train traveling down the tracks next to a forest .",
+  "references": [
+   "A couple of trains parked next to each other.",
+   "Two large trains parked stationary at a station.",
+   "two trains sitting on tracks next to each other",
+   "two trains on train tracks near some trees",
+   "Green and red trains near manned crossing area."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000543805.jpg",
+  "prediction": "a red and white train traveling down a street .",
+  "references": [
+   "A railroad train traveling down a railroad track",
+   "A train speeds by on a cloudy day.",
+   "A passenger train driving parallel to a road.",
+   "A train on some train tracks near trees",
+   "A passenger train travelling through a rural area."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000257414.jpg",
+  "prediction": "a red and white train traveling down the tracks .",
+  "references": [
+   "A long white and red train on the tracks.",
+   "The train has stopped on the railroad tracks.",
+   "A large long white train on a steel track.",
+   "A white railroad train traveling on the tracks",
+   "A train is traveling down the tracks in a small area."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000217327.jpg",
+  "prediction": "a man holding a nintendo wii game controller .",
+  "references": [
+   "A woman posing in front of a street sign called \"Obama\"",
+   "a woman standing at a sign is underneath it",
+   "a woman in a black top and a black and white street sign",
+   "A woman is standing at a street corner under a street sign.",
+   "a person that is standing up holding a coat",
+   "A woman standing below a street sign at night."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000537372.jpg",
+  "prediction": "a close up of a cat laying on top of a",
+  "references": [
+   "A CAT IS LYING ON THE BED",
+   "An orange cat laying on top of a bed.",
+   "An orange, long haired, tabby cat lays on a surface with a white and beige cloth covering.",
+   "A ginger cat lounges comfortably on a bed.",
+   "A large orange cat sleeping on top of a bed."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000340160.jpg",
+  "prediction": "a brown and white dog laying on top of a bed .",
+  "references": [
+   "Two dogs and a cat on a rug indoors.",
+   "A cat and two dogs interacting with each other.",
+   "A cat cautiously looks at two dogs while walking across the room.",
+   "A cat and two dogs stand on carpet.",
+   "Two dogs and a cat walk around storage items"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000093272.jpg",
+  "prediction": "a black and white cat sitting on top of a bed .",
+  "references": [
+   "A black cat wearing a cape gazes up.",
+   "A black cat is wearing a knitted pink bow.",
+   "A black kitten wearing a red knitted collar.",
+   "A cat looking to the side with a scarf around it's neck.",
+   "A black kitten lies on a pink pillow and has a pink scarf behind its head."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000305370.jpg",
+  "prediction": "a living room filled with furniture and a television .",
+  "references": [
+   "A cat is sitting watching a television show.",
+   "a cat that is watching a t.v. show",
+   "A cat sits directly in front of a TV.",
+   "Cat is sitting in front of big screen TV watching silhouette of Meerkat on TV.",
+   "A cat sitting in front of a flat screen TV in a living room."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000170125.jpg",
+  "prediction": "a man holding a cell phone in a room .",
+  "references": [
+   "a person in a black shirt and a spotted tie",
+   "A woman is in the bathroom posing for a picture.",
+   "Young adult wearing black shirt and checkered tie posing for photo.",
+   "An individual poses for a picture beside a bright window.",
+   "a man that has a suite and tie on"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000484206.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A couple of elephants are up to their necks in water.",
+   "Two large elephants swimming through a body of water.",
+   "Two elephants swimming across a river at sunset.",
+   "Two elephants are crossing a body of water.",
+   "Two elephants mostly submerged in water as they cross a river."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000326311.jpg",
+  "prediction": "a large boat floating on top of a body of water .",
+  "references": [
+   "A white boat is parked next to a pier.",
+   "A ship sitting at the dog next to lots of trees.",
+   "Several boats sitting at docks on a body of water.",
+   "A group of boats are docked under sunny skies.",
+   "Boats are docked in the water next to several small piers."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000255954.jpg",
+  "prediction": "a couple of elephants walking across a river .",
+  "references": [
+   "Elephant socially engaging while standing in water area.",
+   "there are two elephants in the water embracing each other",
+   "Two large rhinos are playing in the water.",
+   "Two elephants with their trunks attached in the river.",
+   "two elephants in the water and some brown plants"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000514456.jpg",
+  "prediction": "a group of young men playing a game of soccer .",
+  "references": [
+   "A woman doing a cartwheel while holding a yellow frisbee.",
+   "a person practically standing on his head with a Frisbee",
+   "some people and a person in a gray shirt catching a frisbee",
+   "Some people are having a game show.",
+   "A man catching a Frisbee in a very awkward way."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000140074.jpg",
+  "prediction": "a group of young men playing a game of frisbee .",
+  "references": [
+   "Several people on the field as they play frisbee.",
+   "A few women are playing frisbee on a soccer field.",
+   "Several people play a game in a field with a Frisbee.",
+   "A group of young people playing a game of frisbee.",
+   "A man bends down as he prepares to play with a flying disk."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000350535.jpg",
+  "prediction": "a man riding a skateboard down the side of a ramp .",
+  "references": [
+   "a person jumping in the air with a frisbee",
+   "The man is playing Frisbee in the field.",
+   "A man does a split in the air above some weeds as he catches a yellow Frisbee.",
+   "A man with no shirt jumping up from high grass to catch a frisbee.",
+   "a man jumping in the air with a yellow frisbee."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000347697.jpg",
+  "prediction": "a man riding a horse down a dirt road .",
+  "references": [
+   "A young man riding on the back of a brown horse.",
+   "A girl riding a horse on a trail",
+   "A person riding a horse with protective gear on.",
+   "A child is riding a horse inside a corral.",
+   "a person in a helmet riding a brown horse"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000116603.jpg",
+  "prediction": "a close up of a person holding a knife",
+  "references": [
+   "two halves of an orange and a knife",
+   "A citrus fruit sliced in half on a plate.",
+   "An up close picture of a tangerine that has been cut open.",
+   "An orange that had been cut in half laying by a knife.",
+   "a close up of an orange sliced in half"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000458756.jpg",
+  "prediction": "a bowl of bananas sitting on top of a wooden table .",
+  "references": [
+   "A group of bananas on top of green apples in a bowl.",
+   "A bowl filled with yellow bananas and green apples.",
+   "a bowl with some fruit inside of it",
+   "A fruit bowl sitting on a table with bananas and apples.",
+   "A bowl full of bananas and green apples."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000362816.jpg",
+  "prediction": "a group of fruits sitting next to each other .",
+  "references": [
+   "A display in a store filled with oranges and apples",
+   "A lady is standing behind a fruit stand that has melons, apples, and oranges.",
+   "The oranges are in the produce section of the store.",
+   "A woman stands in a grocery store, surrounded by piles of fruit",
+   "A woman standing in front of an orange and apple stand."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000007251.jpg",
+  "prediction": "a bunch of bananas sitting on top of a table .",
+  "references": [
+   "The ends of two bananas are sticking out of a basket.",
+   "Tip of banana stem over a basket lid",
+   "Joined ends of pair of bananas pictured over basket.",
+   "A closeup of two bananas and two baskets.",
+   "There are a few bananas left by the chair."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000053897.jpg",
+  "prediction": "a baby sitting in a chair with a toothbrush .",
+  "references": [
+   "A baby girl sitting in a white high chair holding broccoli.",
+   "A baby eating broccoli in a high chair.",
+   "A child holds broccoli and shows off a smile.",
+   "A little girl is smiling and holding broccoli.",
+   "A girl eating broccoli in a highchair."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000109858.jpg",
+  "prediction": "a display filled with lots of different types of fruit .",
+  "references": [
+   "A blue cloth covered table topped with trays of food.",
+   "A fruit stand offering fee samples on cutting boards and in bowls.",
+   "a table full of apples has a few cut up for display",
+   "Apples and other apple products are arranged for tasting on a table.",
+   "Various apples are laid out for cider tasting."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000547618.jpg",
+  "prediction": "a kitchen filled with lots of donuts and pans .",
+  "references": [
+   "A tablet pic sitting on top of a kitchen counter.",
+   "Many different ingredients are on the kitchen counter.",
+   "The tablet is open on the counter for help with the recipe.",
+   "Ingredients for making a pie in front of an iPad on a kitchen counter.",
+   "Three onions are ready to be peel while a pie crust awaits its contents"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000562144.jpg",
+  "prediction": "a group of people riding skis down a snow covered slope .",
+  "references": [
+   "A group of people riding skis on the side of a snow covered mountain.",
+   "People on skies wearing back packs moving along a trail.",
+   "Several people on skis in a group on a trail.",
+   "Skiers cross a steep snowy mountain pass beside a fence.",
+   "an image of a group of people on skiis at the top of a hill"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000433531.jpg",
+  "prediction": "a man riding a snowboard down a snow covered slope .",
+  "references": [
+   "Three snowboarders sitting down on the ground, on a  trail.",
+   "Three people sitting in the snow with snowboards on.",
+   "Three snowboarders sit in the snow close together.",
+   "Three people sitting in the snow with their snowboards.",
+   "Three people with snowboards sit together in the snow."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000034279.jpg",
+  "prediction": "a close up of a hot dog on a plate .",
+  "references": [
+   "an arm reaching over hot dogs on a table",
+   "A counter with two plastic containers with hot dogs in them.",
+   "A person is filling food containers with hotdogs and bread.",
+   "A couple of hot dogs with bacon wrapped on them and cheese.",
+   "A person sitting at a table with some hot dogs."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000440641.jpg",
+  "prediction": "a white plate topped with a sandwich and meat .",
+  "references": [
+   "A cut in half sandwich and some fries on a plate.",
+   "A large sandwich on white plate next to some fries.",
+   "Half a sandwich and fries in a film strip frame",
+   "The sandwich is prepared and ready to be eaten.",
+   "A cut in half sandwich sitting on top of a plate with fries."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000422389.jpg",
+  "prediction": "a pizza sitting on top of a wooden plate .",
+  "references": [
+   "A wooden table topped with a pizza and gallon of milk.",
+   "Hot pizza, ready to be sliced and eaten, sitting in the middle of a large table.",
+   "A dinner table with pizza and a gallon of milk sitting on it.",
+   "A pizza on a large knotty pine kitchen table",
+   "A pizza on a wooden plate sitting on a table with a milk jug and other dishes."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000216851.jpg",
+  "prediction": "a young boy eating a bite of pizza .",
+  "references": [
+   "Two young girls eating something wrapped in a napkin.",
+   "Two little girls are enjoying their ice cream treats",
+   "Two girls look at the camera while taking a bite of their food.",
+   "two little girls eating some food in a mall food court",
+   "Two girls eat a wrapped food by a store window."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000472676.jpg",
+  "prediction": "a man riding a surfboard on top of a beach .",
+  "references": [
+   "A man walking along a beach while holding a surfboard.",
+   "Two surfers with two boards walking along a beach.",
+   "two people walking on a beach with surfboards",
+   "Two people walking along the shoreline carrying body boards.",
+   "Two people are walking along the beach with surfboards in their hand."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000175088.jpg",
+  "prediction": "a young boy eating a piece of pizza .",
+  "references": [
+   "A young boy holding a piece of food up to his mouth.",
+   "a little boy is about to bite into a doughnut .",
+   "A child holding up a piece of food to their mouth.",
+   "A child is eating food with his hand.",
+   "He has a hand on his mushy frosted donut."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000176176.jpg",
+  "prediction": "a teddy bear sitting on top of a bed .",
+  "references": [
+   "A young topless woman holding a brown teddy bear over her right nipple.",
+   "a woman is holding a teddy bear while leaning on a wall",
+   "A shirtless person holding a brown teddy bear.",
+   "This is a picture of a boy with his teddy bear.",
+   "Possible youngster holding teddy bear with poster visible."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000510866.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A boy riding the waves with his white surf board.",
+   "A surf boarder rides atop a crashing wave.",
+   "A person rides on the top of a wave.",
+   "a surfer in a red shirt is surfing",
+   "Man riding a wave in a clear green ocean."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000280266.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "Two surfers ride an ocean wave onto shore.",
+   "Two beautiful young women riding a boogie boards on a wave.",
+   "Two surfers riding a wave toward the shore.",
+   "Two women swimming on their surfboards back to shore",
+   "two women on surfboards in the ocean ,both are laying down"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000478841.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A young female surfer is seen riding a wave",
+   "A woman surfing on a wave at the beach.",
+   "A surfer takes a sharp turn on the crest of a wave.",
+   "A young teenage girl practicing skiing on small waves.",
+   "A female surfer weaves around the medium-sized waves."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000437873.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A couple of people riding waves on top of surfboards.",
+   "A pair of people on surfboards ride a wave.",
+   "a surfer on his stomach on a white board and one other person in the water",
+   "Two people frolicking in the ocean waters with waves",
+   "Two people enjoying a day surfing in the ocean."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000006357.jpg",
+  "prediction": "a woman laying on a bed with a blanket .",
+  "references": [
+   "The girl lays under the colorful polka dotted covered of her bed.",
+   "A little girl is laying in a white bed.",
+   "A happy little girl lies in bed with a stuffed bunny.",
+   "A little girl holding a stuffed animal while laying in bed.",
+   "A small girl is on a bed with fluffy pillows."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000108287.jpg",
+  "prediction": "a living room with a large bed and a chair .",
+  "references": [
+   "The blanket is pulled back on one side of the bed.",
+   "A sleigh style bed frame with blanket and sheets pulled down on one side and the other side is made.",
+   "A queen sized bed with one side messed up.",
+   "a bed with brown blankets one side turned down",
+   "a bed with the cover pulled back on one side"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000127994.jpg",
+  "prediction": "a man holding a tennis racket on a court .",
+  "references": [
+   "Woman planing tennis storing her tennis balls in her shorts.",
+   "A woman holding a tennis racquet and balls on a court.",
+   "A beautiful young woman scratching her left butt cheek.",
+   "A woman prepares to serve on a tennis court",
+   "The woman is holding a tennis racket and tennis balls."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000280023.jpg",
+  "prediction": "a pizza sitting on top of a wooden plate .",
+  "references": [
+   "A pizza with pepperoni and tomatoes on it sitting beside a spoon.",
+   "A homemade pizza with red peppers and tomato on it.",
+   "A green tray and a pizza with tomatoes and mushrooms.",
+   "A pizza on a place matt next to a wood spoon.",
+   "A prepared, personal pizza has cheese, topping, and seasoning."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000285292.jpg",
+  "prediction": "a man holding a tennis bat on top of a tennis court .",
+  "references": [
+   "A tennis player is trying to hit the ball.",
+   "A tennis player in the midst of a tennis game",
+   "A man holding a tennis racket is hitting a ball.",
+   "A man playing a game of tennis on a tennis court.",
+   "a guy that is playing some tennis on a court"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000029687.jpg",
+  "prediction": "a man standing in front of a table .",
+  "references": [
+   "A woman standing next to a covered patio.",
+   "The woman is wearing a long T-shirt with no pants and has something in her mouth.",
+   "The young man is not wearing any pants.",
+   "Blurred image of a man wearing only a black t-shirt and glasses.",
+   "Blurry image of man wearing a black shirt outdoors"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000319043.jpg",
+  "prediction": "a living room with a couch and a table .",
+  "references": [
+   "A gray couch topped with lots of pillows in a living room.",
+   "A living room with a television sitting on the couch.",
+   "A living room with different furniture and items in it",
+   "A living room with a round table in the middle.",
+   "picture of living room with large grey sectional sofa"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000292722.jpg",
+  "prediction": "a woman holding a nintendo wii game controller .",
+  "references": [
+   "A woman in shorts giving a thumbs down signal",
+   "an image of a barefoot girl playing a video game",
+   "A young girl in shorts playing the Wii gives a thumbs down sign, while another person sits on the chair in the background reading.",
+   "Young barefoot girl playing wii giving the thumbs down.",
+   "A teenager is in cut off shorts in a living room."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000287494.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "Three people standing in a living room near a tv.",
+   "Three people in a living room near a lighted Christmas tree.",
+   "A group of people around a lit Christmas tree",
+   "There are three kids looking out of a window",
+   "A family is gathered around a television watching TV."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000268195.jpg",
+  "prediction": "a laptop sitting on top of a wooden table .",
+  "references": [
+   "A desktop computer with a keyboard and a mouse.",
+   "A old computer, keyboard, and mouse sitting at a desk.",
+   "An old Apple computer with keyboard and a mouse.",
+   "there is a old computer with a keyboard and a mouse",
+   "a old computer with an apple logo on it"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000230617.jpg",
+  "prediction": "a living room with a couch , sofa and a large mirror .",
+  "references": [
+   "A living room area with couches and a table",
+   "A couch and table in a small room.",
+   "A living room an dining room in someone's home.",
+   "A living room with a couch, coffee table, dinette and pictures on the wall",
+   "an empty room with a unique rug and furniture,"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000217899.jpg",
+  "prediction": "a group of people flying kites in the sky .",
+  "references": [
+   "A multe colored kite being flown in a grassy field.",
+   "A man in a green field flying a kite.",
+   "there is a person standing on a field flying a kite",
+   "A person flies a kite with streamers in a field.",
+   "A person standing on a green field flying a colorful kite."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000305644.jpg",
+  "prediction": "a group of people flying kites in the sky .",
+  "references": [
+   "A person standing underneath a colorful kite flying in the sky.",
+   "a person standing real close to a kite",
+   "a man looses grip on his kite's string",
+   "A man with his arms in the air flying a kite.",
+   "a male in a black shirt and a kite and tree"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000245142.jpg",
+  "prediction": "a group of people flying kites in the sky .",
+  "references": [
+   "A crowd of people on a beach flying multi colored kites.",
+   "Several kites floating low to the ground on a busy beach.",
+   "People are on the beach with a lot of kites.",
+   "Various kites blowing on a beach with people watching.",
+   "People at the beach where various balloons and kites are being flown."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000406446.jpg",
+  "prediction": "a woman holding a cell phone in a room .",
+  "references": [
+   "the girl is wearing a green jacket on her phone",
+   "A woman with curly hair and green gloves with a cellular phone to her ear.",
+   "Head and shoulders view of a young woman with a backpack over a shoulder holding and talking on a cell phone with a blurry background of open hatch back of an automobile.",
+   "a woman with long hair on a phone she is warmly dressed",
+   "A young girl talking on a cell phone"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000273929.jpg",
+  "prediction": "a large clock tower towering over a river .",
+  "references": [
+   "A far away shot of Big Ben and the nearby complex.",
+   "A large building on the water and a tower with a clock.",
+   "A large castle with a clock tower sits next to a river.",
+   "A sky view of London, England- the palace and parliament.",
+   "Cars are circling around the building, which is the largest landmark."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000256057.jpg",
+  "prediction": "a man holding a tennis racquet on a tennis court .",
+  "references": [
+   "A woman is trying to hit a ball with a tennis racket.",
+   "A lady running after a ball on the tennis court.",
+   "A woman in a black tennis outfit playing tennis on a red clay court.",
+   "a tennis player running to hit the ball",
+   "a lady swinging a tennis ball racket that is standing on clay court."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000284582.jpg",
+  "prediction": "a man riding a skateboard down a street .",
+  "references": [
+   "A teddy bear hanging from a tree and a car parked next to it",
+   "a teddy bear nailed to a tree suspended above garbage",
+   "a teddy bear and eagle stuffed animal nailed to a tree",
+   "A teddy bear hanging from the side of a tree next to abuilding.",
+   "Two stuffed toys hanging from a tree above garbage."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000130786.jpg",
+  "prediction": "a laptop sitting on top of a wooden table .",
+  "references": [
+   "An open laptop computer sitting on top of a table.",
+   "A cup of soda is placed in front of an open laptop.",
+   "A laptop with a mouse and a soda",
+   "A cup with a straw in front of a laptop.",
+   "A desk that has a lap top computer and a soft drink on it."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000310021.jpg",
+  "prediction": "a kitchen filled with lots of food and pans .",
+  "references": [
+   "A clean, empty refrigerator with its two doors open.",
+   "The single door of the house is open.",
+   "The entire of an empty double door refrigerator",
+   "A stainless steel double door refrigerator with bottom drawer freezer.",
+   "A open empty fridge with a bright light."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000388245.jpg",
+  "prediction": "a pizza sitting on top of a white plate .",
+  "references": [
+   "A cafeteria tray of three dishes: french fries, chickpeas with sauce-covered meat, and a noodle dish.",
+   "A tray holds an assortment of different food dishes.",
+   "this tray has three dishes of different foods.",
+   "The tray has fries, meats and vegetables.",
+   "A PICTURE OF FOODS SITTING ON A TRAY"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000014748.jpg",
+  "prediction": "a woman sitting at a table with food .",
+  "references": [
+   "A lady pouring brandy into blue sifters on a table set with white dishes.",
+   "A woman at a table with a blue glass in her hand.",
+   "A woman is pouring a drink and the plate holds sugar cubes.",
+   "A woman that is sitting next to a table.",
+   "A woman pouring some drink into a glass at a table."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000453025.jpg",
+  "prediction": "a group of people sitting at a table with a cake .",
+  "references": [
+   "A woman sitting at a table with two men.",
+   "Some folks having an appetizer and some drinks.",
+   "A woman and two men drinking glasses of wine.",
+   "Two men and a woman sampling wines at a table.",
+   "Adults sitting at wooden table sampling wine and food."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000178770.jpg",
+  "prediction": "a bathroom with a sink and a mirror .",
+  "references": [
+   "a bathroom with a sink and a large window",
+   "A shot of a bathroom sink with a towel rack.",
+   "There are towels inside the cupboard beside the sink and personal care items on the counter of the sink.",
+   "Towels are on the shelf next to the bathroom sink.",
+   "A sink and shelves of towels are in a bathroom."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000067405.jpg",
+  "prediction": "a bathroom with a sink and a mirror .",
+  "references": [
+   "a toilet sits in front of a shower with a glass slider",
+   "The small bathroom has a glass shower door.",
+   "a bathroom with a brown floor and cabinet",
+   "Bathroom with square sink, glass door on tub and lamp on.",
+   "A white toilet sitting next to a walk in shower."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000006489.jpg",
+  "prediction": "a man riding a bike down a street .",
+  "references": [
+   "A man in a blue riding outfit has a bicycle.",
+   "A biker with a helmet and biker shorts.",
+   "a person in cyclist clothing and a helmet standing next to a bicycle",
+   "A biker smiles next to his bike on the sidewalk",
+   "A man in tight clothing standing next to a bike."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000054874.jpg",
+  "prediction": "a white toilet sitting next to a wall .",
+  "references": [
+   "A horrible bathroom has the sink all rotted.",
+   "A toilet that is in a dirty room.",
+   "A disgusting bathroom is shown with a dirty rusted toilet.",
+   "A toilet and sink in dirty bathroom in poor repair.",
+   "Toiled in a dirty bathroom with a concrete sink and tiled walls."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000392202.jpg",
+  "prediction": "a white toilet sitting in a kitchen .",
+  "references": [
+   "A small room with a big hole in the floor.",
+   "The bathroom has a fixture in the middle with a garbage can.",
+   "Toilet design outside of the US with accompanying trash can.",
+   "the bathroom has a hole in the floor and a green garbage can",
+   "a small bathroom that has a toilet in the floor"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000425260.jpg",
+  "prediction": "a clock sitting on top of a brick building .",
+  "references": [
+   "A cat laying in the entrance of a hotel.",
+   "there is a doorway with a sign above it",
+   "HOTEL WITH ARCHED DOORWAY AND CAT SLEEPING ON STEP",
+   "A cat is sitting outside the staircase of a hotel.",
+   "A hotel sign hangs above a doorway with a cat laying in it."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000113293.jpg",
+  "prediction": "a living room filled with furniture and a television .",
+  "references": [
+   "A living room scene with focus on the television.",
+   "a living room with a tv on an entertainment center",
+   "A television is illuminated in a family room.",
+   "A television sits on an illuminated entertainment center in a dimly lit room.",
+   "A picture of a TV that is in a room."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000163478.jpg",
+  "prediction": "a man sitting on a couch with a cell phone .",
+  "references": [
+   "A man sitting in a blue seat watching a video.",
+   "A man is sitting on an airplane seat with an electronic device.",
+   "A passenger in the back row is watching a movie on a small screen.",
+   "A man sitting on an airplane with a small hand held TV",
+   "A man watching a video while riding on an airplane."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000114815.jpg",
+  "prediction": "a giraffe standing in a lush green forest .",
+  "references": [
+   "A couple of giraffe standing on top of a field.",
+   "Two grown giraffes travelling on a residential street.",
+   "Two giraffes standing in a large green field.",
+   "Two tall giraffes are next to an enclosure and trees.",
+   "Two giraffes stand in the foreground with trees in the background."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000512037.jpg",
+  "prediction": "a herd of giraffes standing on top of a lush green field .",
+  "references": [
+   "A herd of giraffes and a zebra standing in or beside a river with grasses and trees around.",
+   "many animals in a body of water near trees",
+   "A family of giraffe wade in a river in the wild.",
+   "The giraffes are standing in the river near a single zebra.",
+   "A mother giraffe crossing a river with her babies"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000142866.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "this is people looking at a giraffe at the zoo",
+   "Giraffe in an interior pen that connects to an outdoor area.",
+   "A giraffe that is standing in an indoor exhibited.",
+   "Two children and a man are near the giraffe exhibit at the zoo",
+   "The people are standing near the giraffe behind a display."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000144176.jpg",
+  "prediction": "a couple of people standing next to each other .",
+  "references": [
+   "A red traffic signal sitting in front of a balcony.",
+   "A red light on a street light near a building",
+   "A red light hanging above a city intersection",
+   "There is a red light on a traffic light",
+   "A traffic light in the middle of the city is red."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000113402.jpg",
+  "prediction": "a man riding a skateboard down a street .",
+  "references": [
+   "A statue of a man facing towards a bus.",
+   "A bus parked in front of a metal statue.",
+   "A statue of a man is in a brick plaza, with a bus in the background.",
+   "A view from the back of a statue looking onto a city bus.",
+   "A bus is stopped in front of a graphic statue"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000442154.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "A yellow school bus reflected in a motorcycle mirror.",
+   "A rear view mirror showing a school bus.",
+   "People standing next to a mirror with a reflection of a bus in it.",
+   "A side mirror view of a school bus.",
+   "a  mirror with a school bus in its relection"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000069426.jpg",
+  "prediction": "a giraffe standing in a lush green field .",
+  "references": [
+   "A giraffe standing in a field and by trees.",
+   "The giraffe stands in tall brown grass beside bushes.",
+   "A giraffe standing in the middle of a field.",
+   "A large giraffe standing in the middle of a field.",
+   "A giraffe standing in a grassy area amongst trees."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000041293.jpg",
+  "prediction": "a man sitting on top of a wooden bench .",
+  "references": [
+   "A wooden park bench under a low hanging tree",
+   "a bench near a field near a tree",
+   "A lone park bench that sits beside a tree in a park.",
+   "A bench sitting under a tree with lots of leaves.",
+   "Wooden bench in grassy area with autumn leaves on trees."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000366975.jpg",
+  "prediction": "a herd of sheep grazing on top of a lush green field .",
+  "references": [
+   "A group of white sheep eating from blue bowls",
+   "A number of lambs standing around eating from blue barrels",
+   "A herd of sheep standing on dry grass grazing on food.",
+   "A herd of sheep drink water from blue troughs.",
+   "A group of sheep eating from troughs in a pin."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000389964.jpg",
+  "prediction": "a giraffe standing next to a tree in a field .",
+  "references": [
+   "The zebra has three birds sitting on its neck.",
+   "A giraffe walking in dried grass and with green trees in the back.",
+   "A giraffe is strolling through a dry field.",
+   "A lone giraffe in the wild walking in grass.",
+   "A giraffe walks through the brush and around trees."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000541226.jpg",
+  "prediction": "a cat sitting on top of a desk .",
+  "references": [
+   "The hat is laying on the table.",
+   "A map hangs on a wall near a hat and a cane,",
+   "A screen with a map and a hat on the table",
+   "A hat is on a desk in a room.",
+   "a hat is sitting on a wood table"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000335090.jpg",
+  "prediction": "a train traveling down the tracks next to a forest .",
+  "references": [
+   "A blue and green train engine with red train car behind it.",
+   "A very nice train on tracks near some big buildings.",
+   "A railroad train that has advertising on it",
+   "A train traveling on tracks through a small town.",
+   "A train with a colorful painting on it's side traveling down tracks."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000088449.jpg",
+  "prediction": "a red and white train traveling down the tracks .",
+  "references": [
+   "Two trains are parked next to each other on two separate tracks",
+   "Two trains are driving side by side on tracks.",
+   "Two trains sit next to each other on the tracks.",
+   "two trains on train tracks next to each other",
+   "A red train and a blue/yellow train, stopped, next to each other."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000384857.jpg",
+  "prediction": "a man sitting on top of a bench .",
+  "references": [
+   "An umbrella with a cover near a small pond.",
+   "there is a small tent that has a table and two chairs in it",
+   "An open front tent with a camping table and chairs set up in it in front of a pond.",
+   "A tent is set up near a lake and campers.",
+   "A table and some chairs under an umbrella."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000336448.jpg",
+  "prediction": "a small brown dog laying on top of a bed .",
+  "references": [
+   "A white pug dog sitting on top of an arm on a couch.",
+   "A small pug is lying on the top of a sofa.",
+   "The puppy is sitting on the sofa looks very tiny.",
+   "THERE IS A PUG DOG THAT IS LYING DOWN",
+   "A pug laying on the edge of a sofa."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000427014.jpg",
+  "prediction": "a black and white dog sitting on top of a bed .",
+  "references": [
+   "A giant brown bear cut out on top of a fake paper building.",
+   "A large bear cut out stands in front of a house.",
+   "a display of a giant bear standing in the middle of a shop",
+   "A room that has a cut out of a bear on two legs.",
+   "A cardboard cut out of a brown bear greets visitors."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000068502.jpg",
+  "prediction": "a single zebra standing in a grassy field .",
+  "references": [
+   "Herd of zebras and giraffes on the edge of a field.",
+   "A group of zebras in a grassy field with giraffes.",
+   "Several zebras with giraffe in the background in an open area.",
+   "The back end of several zebras can be seen in the foreground of a scene also featuring giraffes.",
+   "Zebras with their backs towards the camera are shown here."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000104098.jpg",
+  "prediction": "a zebra standing on top of a lush green field .",
+  "references": [
+   "two zebras frolicking in a field and one standing still",
+   "The first zebra in the picture is standing, the second is walking, and the third zebra is running.",
+   "Three zebra standing next to each other on snow covered ground.",
+   "Three young zebras appear to pose in front of a bush at the zoo.",
+   "The zebras are running down the path. There are three."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000212023.jpg",
+  "prediction": "a vase filled with flowers on top of a table .",
+  "references": [
+   "A close up of a vase from the Roman or Greek era.",
+   "A vase with chariots and horses on it.",
+   "an antique vase with horses that have wings",
+   "A highly decorated brown vase has a horse on it.",
+   "an old vase the is painted with ancient pictures"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000408556.jpg",
+  "prediction": "a zebra standing on top of a lush green field .",
+  "references": [
+   "A zebra grazes on the grass of a field.",
+   "The zebra is eating the grass in the field.",
+   "An animal that is eating something off the grass.",
+   "A striped zebra standing on a lush green field.",
+   "A ZEBRA IS EATING GRASS ON THE GROUND"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000459429.jpg",
+  "prediction": "a woman holding a banana in her hand .",
+  "references": [
+   "A woman smiling while holding a yellow banana.",
+   "A woman is holding a banana in her hand.",
+   "A woman wearing pearls, smiling and holding a yellow banana.",
+   "A young woman, dressed in black,  holding a banana.",
+   "a woman in a suit holds on to a vegetable"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000320785.jpg",
+  "prediction": "a baseball player holding a bat standing next to home plate .",
+  "references": [
+   "a pitcher leaning over after throwing a ball",
+   "A child pitcher throws the baseball from the mound",
+   "A baseball player throwing a ball on the field",
+   "there is a young baseball player that has thrown the ball",
+   "A man throwing a baseball at a game."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000533431.jpg",
+  "prediction": "a bunch of bananas sitting on top of a table .",
+  "references": [
+   "A bunch of boxes of fruit on a stand.",
+   "A display in a grocery store filled with lots of different fruits.",
+   "A large variety of fresh fruit at a produce stand.",
+   "Hanging bunches of ripe bananas and boxes of various fruit.",
+   "Many different fruits and vegetables are in boxes."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000482265.jpg",
+  "prediction": "a pizza sitting on top of a white plate .",
+  "references": [
+   "A mixed plate of chicken, rice, and vegetables.",
+   "A plate of food contains chicken, rice, and vegetables",
+   "A floral patterned dish heaped with chicken, rice and vegetables.",
+   "A plate of food, including meat, rice, and vegetables.",
+   "a big plate of food that is on a big white plate"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000530636.jpg",
+  "prediction": "a slice of cake sitting on top of a white plate .",
+  "references": [
+   "A plate of food including chicken, rice, and beets.",
+   "A plate of chicken, rice, and some vegetables.",
+   "A gourmet dinner is displayed on a plate.",
+   "A white plate topped with rice, meat and vegetables.",
+   "The plate has chicken and rice with carrots on it."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000115319.jpg",
+  "prediction": "a man riding a snowboard down a snow covered slope .",
+  "references": [
+   "A person in a gray jacket on a pair of skis",
+   "A person in skis is on the snow.",
+   "Skier in grey and green outfit in midair in the snow.",
+   "A person doing a trick on a pair of skis in the snow.",
+   "Someone in green pants and a grey coat is skiing in the snow"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000263515.jpg",
+  "prediction": "a white plate topped with lots of food .",
+  "references": [
+   "A large hoagie that has been served on a plate",
+   "A large sandwich on a plate contains alfalfa sprouts.",
+   "A large sub sandwich sitting alone on a white plate.",
+   "a sub sandwhich that looks bomb AF and id chow",
+   "A submarine sandwich sitting on top of a white plate."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000552646.jpg",
+  "prediction": "a group of people standing on top of a bench .",
+  "references": [
+   "A man and woman who have skis on pose near a row of signs.",
+   "A couple on skis stand next to a sign with directions.",
+   "A couple in skis pose in front of a Trail Sign.",
+   "Two skiers standing in front of a bench and a sigh pointing to different slopes.",
+   "A man and a woman on skis posing for a photo."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000220860.jpg",
+  "prediction": "a man holding a bunch of bananas in his hand .",
+  "references": [
+   "A young man holding up a bunch of bananas near a cooler in a supermarket.",
+   "A smiling man holding up a large hand of bananas in a supermarket",
+   "The man is taking a picture with a bunch of bananas.",
+   "A man standing next to a grocery case holding a bunch of bananas.",
+   "The man has a bunch of bananas in his hand."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000113216.jpg",
+  "prediction": "a close up of a sandwich on a plate .",
+  "references": [
+   "a plate that has some food on it",
+   "Assortment of baked pastry items displayed on plate.",
+   "Three deserts sitting by each other on a plate.",
+   "A plate filled with pastry desserts on it.",
+   "A variety of sweet pastries on a large plate."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000447130.jpg",
+  "prediction": "a man riding a skateboard on top of a ramp .",
+  "references": [
+   "A person on a skateboard up in the air.",
+   "A skateboarder doing a trick in a skate park.",
+   "A skater rides in a bowl at a skate park.",
+   "A group of people practicing skateboarding in  a park",
+   "a man on a skateboard is performing tricks on the ramp"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000447095.jpg",
+  "prediction": "a black and white cat laying on top of a bed .",
+  "references": [
+   "A black cat looking at a carrot with dirt on it.",
+   "A black cat standing on a wooden floor with a carrot in front.",
+   "A cat stares suspiciously at a carrot on the ground.",
+   "A dark black cat standing near a garden carrot.",
+   "A black cat starring at a dirty carrot."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000433217.jpg",
+  "prediction": "a table topped with lots of different types of food .",
+  "references": [
+   "A glass plate holds crackers, cheese, and vegetables.",
+   "A platter of various vegetables and cheeses on a table..",
+   "A platter of food sitting on the table.",
+   "A platter with food on it on a table",
+   "A large platter filled with lots of different foods."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000121666.jpg",
+  "prediction": "a group of people riding skis down a snow covered slope .",
+  "references": [
+   "A group of men standing next to each other on a snow covered slope.",
+   "Several people on skis standing in the snow.",
+   "This group of people poses for a photo before skiing.",
+   "Several skiers on skis posing for the picture in the snow",
+   "A bunch of people standing on the slope getting ready to ski."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000340039.jpg",
+  "prediction": "a man riding a skateboard down a street .",
+  "references": [
+   "Snowboarder performing stunt off of roof next to building with brick wall and windows.",
+   "A snowboarder is performing a stunt from the very high ledge of a building.",
+   "Two boys skating off of the side of a building.",
+   "A snowboarder performing a big jump off a rooftop.",
+   "A man jumping off of a roof on a snowboard."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000238630.jpg",
+  "prediction": "a living room filled with furniture and a window .",
+  "references": [
+   "Two beds sitting next to each other in a bedroom.",
+   "This hotel room may be four stars with two double beds and luxurious draperies/ furnishings.",
+   "Two double beds with a table, chair and windows.",
+   "A bedroom with green walls has two large beds.",
+   "A hotel room with two beds and a desk."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000239845.jpg",
+  "prediction": "a man sitting at a table with a cake .",
+  "references": [
+   "A surprised guy staring at a cake with candles.",
+   "man looking at white cake with suprised look",
+   "A man is excited about a birthday cake on a plate.",
+   "A man claps as he sees a platter of cake.",
+   "A man is excited when he sees this cake."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000080543.jpg",
+  "prediction": "a man riding a wave on top of a surfboard .",
+  "references": [
+   "A surfer skillfully rides a wave while another surfer watches.",
+   "A surfer watches another surfer ride the wave into shore.",
+   "A person in the water as another person surfs past",
+   "The two people are in wetsuits in the ocean while one rides a wave.",
+   "A man is riding a wave on a surfboard."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000333411.jpg",
+  "prediction": "a living room with a large bed and a window .",
+  "references": [
+   "Mattress style loungers run the length of a large pool.",
+   "BEDS SET UP NEAR A SWIMMING POOL AT A RESORT",
+   "Empty swimming pool with empty beds placed poolside.",
+   "A gorgeous pool with gorgeous outdoor furniture surrounding it",
+   "A swimming pool surrounded by furnished beds and mattresses."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000530211.jpg",
+  "prediction": "a group of people standing on top of a beach .",
+  "references": [
+   "A large crowd of people on a beach.",
+   "a group of people walk on a beach",
+   "there are many people that are on this beach",
+   "An ocean beach crowded with swimmers and sunbathers",
+   "Several people playing in the ocean on a hot sunny day."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000131665.jpg",
+  "prediction": "a bed with a white blanket sitting on top of it .",
+  "references": [
+   "A mother and baby in bed with a fireplace in the room",
+   "A woman laying in bed with a child laying near her.",
+   "two children in a bed with sheets in a bed room",
+   "A woman and a baby lying in bed beneath a white coverlet.",
+   "A picture of a bed with two people sleeping on the bed."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000095247.jpg",
+  "prediction": "a room with a bed and a chair .",
+  "references": [
+   "A bed with a colorful blanket sitting under a picture.",
+   "A bed with a brilliantly colored bedspread and pillows.",
+   "A bedroom scene complete with a bed, desk and lamp.",
+   "A bed has an unique red and purple bedspread.",
+   "A small bedroom is decorated in a modern style"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000068422.jpg",
+  "prediction": "a kitchen with a sink and a mirror .",
+  "references": [
+   "A kitchen with a stove, oven, dishwasher and refrigerator.",
+   "a retro kitchen with brown wood-paneled designs and other 1960's-era objects",
+   "A kitchen with small appliances and counter in it.",
+   "An old design kitchen with a long counter and brown appliances.",
+   "A home kitchen trimmed in wood with a breakfast bar."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000145231.jpg",
+  "prediction": "a large tall clock tower towering over a street .",
+  "references": [
+   "a blue and green pro tennis court and a game of tennis",
+   "A singles tennis game with a a large crowd looking on.",
+   "An overhead view of a tennis court while a game commences.",
+   "A tennis court with two players and a stadium full of people.",
+   "Opponents play on a blue tennis court to full stands."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000100034.jpg",
+  "prediction": "a group of people standing next to each other .",
+  "references": [
+   "Four young kids standing together holding tennis rackets.",
+   "Four children in a line with tennis rackets.",
+   "A group of children take their stance to hit a tennis ball.",
+   "A woman standing on top of a tennis court",
+   "A group of kids holding and swinging tennis rackets."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000345142.jpg",
+  "prediction": "a man holding a tennis racket on a tennis court .",
+  "references": [
+   "Tennis player with tennis racket waiting for a tennis ball.",
+   "A man on with his racket is anticipating the ball.",
+   "a male tennis player in a black shirt is playing tennis",
+   "The tennis player is in the air after jumping to hit a ball.",
+   "a tennis player standing on a tennis court with a racket"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000571405.jpg",
+  "prediction": "a group of people sitting next to each other .",
+  "references": [
+   "A bunch of people are brushing their teeth together.",
+   "Half naked group wearing headlamps and brushing their teeth.",
+   "a number of people brushing their teeth wit ha dark background",
+   "Six adults are shown brushing their teeth for the camera.",
+   "Six people brushing their teeth at the same time."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000305358.jpg",
+  "prediction": "a close up of a person brushing his teeth",
+  "references": [
+   "An instagram filtered image of a man brushing his teeth.",
+   "a close up of a person with a tooth brush in his mouth",
+   "a man poses with a tooth brush in his mouth",
+   "A person staring with a toothbrush in his mouth,",
+   "a man with a tooth brush in his mouth"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000159357.jpg",
+  "prediction": "a living room filled with furniture and a fireplace .",
+  "references": [
+   "A house with a staircase, ceiling fan and windows.",
+   "A living room with tv and piano and stairs going up the side.",
+   "The room has two doorways and a stairwell in it.",
+   "A living room area with stairs that lead upstairs.",
+   "The home feels very open, and features wood floors and natural light."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000327198.jpg",
+  "prediction": "a laptop sitting on top of a wooden table .",
+  "references": [
+   "Multiple electronic items displayed on busy desk top.",
+   "a computer with a weird two way split keyboard",
+   "a desk with a keyboard mouse and monitor",
+   "Two computer and other equipment on a table.",
+   "A desk with computers and keyboard split in half"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000260311.jpg",
+  "prediction": "a table topped with a laptop and a computer .",
+  "references": [
+   "A wooden desk topped with a computer monitor and keyboard.",
+   "a computer monitor and a keyboard with a cell phone",
+   "Someone's desk has a computer, a keyboard, some pens, a journal, and a cell phone on it.",
+   "an organized computer station desk area with a car",
+   "A computer desk with keyboard, monitor, cell phone and various desk accessories."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000535732.jpg",
+  "prediction": "a living room filled with furniture and a fireplace .",
+  "references": [
+   "A living room filled with furniture and a flat screen TV.",
+   "A very large living room with all the furnishings.",
+   "A living room with a television, old computer and fan.",
+   "A picture of a living room with a TV, fireplace, furniture, and two large windows.",
+   "a living room with a couch a chair and a table"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000098233.jpg",
+  "prediction": "a group of people standing on top of a beach .",
+  "references": [
+   "A field with several kites on it at a festival.",
+   "Groups of people are flying kites in the cloudy sky.",
+   "a crowd of people are sitting outdoors  for a festival",
+   "Many people sit and stand next to flags in an open field on a grey, cloudy day while kites are flying in the sky.",
+   "Many people are relaxing outside while kites are flown."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000052394.jpg",
+  "prediction": "a group of people standing on top of a beach .",
+  "references": [
+   "A group of people flying kites in the sky",
+   "Several different kites floating in the sky in a kite event.",
+   "A view of a bunch of kites flying over a crowd of people.",
+   "Several people are flying different types of kites.",
+   "A blue sky filled with colorful flying kites."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000039309.jpg",
+  "prediction": "a group of people flying kites in the sky .",
+  "references": [
+   "Several people on a beach flying kites on a clear day.",
+   "Some people are flying kites on a beach.",
+   "The kites are the most beautiful sight in the sky.",
+   "Lots of kites being flown on the beach.",
+   "numerous people on the beach flying their kites"
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000351141.jpg",
+  "prediction": "a baseball player holding a bat standing next to home plate .",
+  "references": [
+   "A baseball player swinging a bat during a game.",
+   "A man taking a swing at a baseball game.",
+   "A baseball player swinging during his turn at bat.",
+   "The baseball player is swinging his bat on the field.",
+   "People watching as a baseball player hitting a ball and the catcher stooping  behind him."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000348274.jpg",
+  "prediction": "a group of people standing in a room .",
+  "references": [
+   "A bunch of people eating pizza in room with blue table",
+   "A group of people standing near a table getting plates of food.",
+   "A large group of people in a building.",
+   "People milling around a long table with pizza boxes open on it.",
+   "Group of people standing before a huge movie screen."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000046085.jpg",
+  "prediction": "a red fire decker bus sitting on top of a building .",
+  "references": [
+   "a window display of a play microwave and some play food",
+   "A view of some packaged gift foods on a colorful microwave.",
+   "A display of different children's cooking and baking toys.",
+   "Plastic food sets and a toy microwave are on this shelf.",
+   "Two cooking toys are on a green counter."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000381350.jpg",
+  "prediction": "a large clock tower towering over a city street .",
+  "references": [
+   "Several bear figurines on display in front of a clock.",
+   "A table with a wooden clock and various porcelain animal figures.",
+   "some crazy porcelain figurines that are creepily around around a clock",
+   "Wood able with clock and animal figurines in the corner.",
+   "Miniature decorative animals stand in front of an antique clock."
+  ]
+ },
+ {
+  "file": "train2014/COCO_train2014_000000563713.jpg",
+  "prediction": "a white and black fire hydrant sitting on top of a table .",
+  "references": [
+   "a porcelan vase sitting in a display case",
+   "A vase sitting on top of a wooden table.",
+   "A vase with figures on it sitting behind glass.",
+   "A very nice looking urn with pretty images on it.",
+   "a close up of a vase with art behind a display glass"
+  ]
+ }
+]
